@@ -15,7 +15,7 @@ npm install
 - Start the Development Server:
 npm run develop
 
-Access your site at http://localhost:port, depends where you intiiate it. 
+Access your site at http://localhost:port, depends where you initiate it. 
 
 
 The site will automatically reload if you make any changes to the files in the project directory.
