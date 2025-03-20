@@ -7,3 +7,4 @@ node_modules/
 
 # Python virtual environment folders (if any)
 venv/
+__pycache__
