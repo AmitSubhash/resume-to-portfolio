@@ -191,6 +191,6 @@ def create_gatsby_project(extract_json: str):
         file_name="devfolio_updated.zip",
         mime="application/octet-stream"
     )
-    st.write("## Unzip, CD to the folder, and run `npm install` and `npm run build`")
+    st.write("Unzip, CD to the folder, and run `npm install` and `npm run build`")
 
     st.write("have fun")
