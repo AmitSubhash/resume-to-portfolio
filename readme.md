@@ -9,14 +9,14 @@ Well I gotchu. Give me your resume and I would give you a minmalistic responsive
 
 ## Setup Instructions
 
-cd to you project dir
-
+- cd to you project directory
 - Install Dependencies:
 npm install
 - Start the Development Server:
 npm run develop
 
-Access your site at http://localhost:8000.
+Access your site at http://localhost:port, depends where you intiiate it. 
+
 
 The site will automatically reload if you make any changes to the files in the project directory.
 
