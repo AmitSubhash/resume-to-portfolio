@@ -11,9 +11,9 @@ Well I gotchu. Give me your resume and I would give you a minmalistic responsive
 
 cd to you project dir
 
-Install Dependencies:
+- Install Dependencies:
 npm install
-Start the Development Server:
+- Start the Development Server:
 npm run develop
 
 Access your site at http://localhost:8000.
