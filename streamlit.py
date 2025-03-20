@@ -8,7 +8,7 @@ from backend import extract_resume, gatsby_builder
 st.title("Upload Your Resume")
 
 uploaded_file = st.file_uploader(
-    "Upload your resume (PDF, DOCX, or TXT)",
+    "Anything works : (PDF, DOCX, or TXT)",
     type=["pdf", "docx", "txt"]
 )
 
