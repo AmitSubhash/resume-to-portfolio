@@ -1,6 +1,7 @@
 # Resume to Portfolio
 
-Congratulations on creating your personalized  portfolio! Follow the steps below to set up and run your site locally.
+Want a portfolio but you don't want to code it out and just want something that displays your info?
+Well I gotchu. Give me your resume and I would give you a minmalistic responsive website.
 
 ## Prerequisites
 
