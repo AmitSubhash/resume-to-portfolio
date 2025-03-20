@@ -1,0 +1,9 @@
+.env
+.history
+
+# Node modules and other dependencies
+node_modules/
+
+
+# Python virtual environment folders (if any)
+venv/
